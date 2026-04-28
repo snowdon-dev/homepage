@@ -30,6 +30,7 @@ const components = {
   diskstation: dynamic(() => import("./diskstation/component")),
   dispatcharr: dynamic(() => import("./dispatcharr/component")),
   downloadstation: dynamic(() => import("./downloadstation/component")),
+  dokploy: dynamic(() => import("./dokploy/component")),
   docker: dynamic(() => import("./docker/component")),
   dockhand: dynamic(() => import("./dockhand/component")),
   kubernetes: dynamic(() => import("./kubernetes/component")),

@@ -260,6 +260,13 @@
         "leech": "Leech",
         "seed": "Seed"
     },
+    "dokploy": {
+      "status": "Status",
+      "projects": "Projects",
+      "services": "Services",
+      "up": "Up",
+      "error": "Errors"
+    },
     "sonarr": {
         "wanted": "Wanted",
         "queued": "Queued",

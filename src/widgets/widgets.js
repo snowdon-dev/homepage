@@ -27,6 +27,7 @@ import diskstation from "./diskstation/widget";
 import dispatcharr from "./dispatcharr/widget";
 import dockhand from "./dockhand/widget";
 import downloadstation from "./downloadstation/widget";
+import dokploy from "./dokploy/widget";
 import emby from "./emby/widget";
 import esphome from "./esphome/widget";
 import evcc from "./evcc/widget";
@@ -182,6 +183,7 @@ const widgets = {
   dispatcharr,
   dockhand,
   downloadstation,
+  dokploy,
   emby,
   esphome,
   evcc,
